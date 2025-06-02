@@ -5,7 +5,7 @@ plugins {
     id("io.github.goooler.shadow") version "8.1.8"
 }
 
-group = "dev.blacky"
+group = "com.darkblade12.itemslotmachine"
 version = "1.0.0"
 paperweight.reobfArtifactConfiguration = io.papermc.paperweight.userdev.ReobfArtifactConfiguration.MOJANG_PRODUCTION
 

@@ -4,7 +4,7 @@ import com.darkblade12.itemslotmachine.util.FileUtils;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
-import org.apache.commons.lang.StringEscapeUtils;
+import org.apache.commons.lang3.StringEscapeUtils;
 import org.bukkit.ChatColor;
 
 import java.io.File;

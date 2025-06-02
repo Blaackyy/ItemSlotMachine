@@ -1,5 +1,5 @@
 name: ItemSlotMachine
-version: ${project.version}
+version: ${version}
 author: DarkBlade12
 website: http://dev.bukkit.org/profiles/DarkBladee12
 main: com.darkblade12.itemslotmachine.ItemSlotMachine

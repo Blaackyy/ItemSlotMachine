@@ -1,6 +1,6 @@
 package com.darkblade12.itemslotmachine.reference;
 
-import org.apache.commons.lang.ArrayUtils;
+import org.apache.commons.lang3.ArrayUtils;
 import org.bukkit.Axis;
 import org.bukkit.block.BlockFace;
 import org.bukkit.block.data.Rail.Shape;
