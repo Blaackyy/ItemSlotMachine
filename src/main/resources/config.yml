@@ -23,7 +23,7 @@ design:
     enabled: true
   
     # The list of block types which are ignored by the space check
-    ignored-types: ['snow', 'grass', 'fern', 'tall_grass', 'large_fern']
+    ignored-types: ['snow_block', 'grass_block', 'fern', 'tall_grass', 'large_fern']
  
 # This section contains settings for all slot machines
 slot-machine:
